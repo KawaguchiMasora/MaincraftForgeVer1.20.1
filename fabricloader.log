@@ -1,0 +1,4 @@
+[19:19:21] [WARN] [FabricLoader/Resolution]: Mod resolution failed
+[19:19:21] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE natures_spirit 1.6.3-1.20.1 {depends terrablender @ [*]}, ROOT_FORCELOAD_SINGLE natures_spirit 1.6.3-1.20.1]
+[19:19:21] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP natures_spirit 1.6.3-1.20.1 {depends terrablender @ [*]}]
+[19:19:21] [INFO] [FabricLoader/Resolution]: Fix: add [add:terrablender 1 ([(-∞,∞)])], remove [], replace []

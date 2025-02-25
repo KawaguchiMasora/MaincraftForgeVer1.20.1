@@ -1,0 +1,16 @@
+{
+  "bookGuiScale": 4,
+  "clickedVisualize": false,
+  "bookData": {
+    "tfc:field_guide": {
+      "viewedEntries": [],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "irons_spellbooks:iss_guide_book": {
+      "viewedEntries": [],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}
