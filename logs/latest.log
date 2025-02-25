@@ -305,3 +305,4 @@ java.lang.annotation.AnnotationFormatError: Class 'org.arbor.extrasounds.sounds.
 [06:52:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
 [06:52:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
 [06:52:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:52:52] [Render thread/INFO]: Stopping worker threads
