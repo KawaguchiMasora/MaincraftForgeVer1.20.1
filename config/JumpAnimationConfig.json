@@ -1,0 +1,6 @@
+{
+  "fallSpeedPenalty": true,
+  "highfallSpeedPenalty": true,
+  "hayBlockSpeedPenalty": true,
+  "noFallDamageOnHay": true
+}
