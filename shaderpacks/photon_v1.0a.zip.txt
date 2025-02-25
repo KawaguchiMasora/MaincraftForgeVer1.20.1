@@ -1,0 +1,10 @@
+#Mon Jan 20 16:25:51 JST 2025
+SHADOW_VPS=false
+shadowMapResolution=1024
+VL=false
+ENTITY_SHADOWS=false
+WATER_PARALLAX=false
+GTAO=false
+INFO=0
+ENVIRONMENT_REFLECTIONS=false
+SHADOW_COLOR=false
